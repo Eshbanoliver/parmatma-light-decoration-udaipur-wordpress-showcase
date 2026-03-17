@@ -45,5 +45,6 @@ Custom WordPress website developed for Parmatma Light Decoration, a specialized 
 Open to discussing similar destination wedding, event planning, lighting/decor, DJ/sound, or celebration service WordPress projects!
 
 📧 eshbanoliver@gmail.com 
+This is a website showcase.
 LinkedIn: https://in.linkedin.com/in/eshban-oliver-757352372  
 Location: Udaipur-based client project
